@@ -252,7 +252,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 Department of Health Informatics, School of Healthcare Professions  
 Rutgers University  
 📧 sj1398@shp.rutgers.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/Shanmukha Sai Prakash Jeelakarra)
+🔗 [LinkedIn](https://www.linkedin.com/in/ShanmukhaSaiPrakashJeelakarra)
 
 ---
 
