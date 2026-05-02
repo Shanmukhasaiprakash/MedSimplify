@@ -97,7 +97,7 @@ User Query
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/MedSimplify.git
+git clone https://github.com/ShanmukhaSaiPrakashJeelakarra/MedSimplify.git
 cd MedSimplify
 ```
 
