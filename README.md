@@ -175,7 +175,10 @@ current medications before starting this treatment.
 Moxikind-CV 625, Clavam 625, Augpen 625mg Tablet
 
 🧠 SIMPLE EXPLANATION
-Augmentin 625 is a two-medicine antibiotic combination...
+Augmentin 625 combines amoxicillin and clavulanate to fight bacterial 
+infections. It works by stopping bacteria from growing. Take it with 
+food to reduce stomach upset and always finish the full course your 
+doctor prescribed, even if you start feeling better sooner.
 
 ⚕️ Medical Disclaimer: For educational purposes only. Always consult
 a licensed healthcare provider before making any medication decisions.
