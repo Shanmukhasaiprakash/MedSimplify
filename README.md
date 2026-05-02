@@ -256,7 +256,7 @@ Department of Health Informatics, School of Healthcare Professions
 Rutgers University  
 📧 sj1398@shp.rutgers.edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/ShanmukhaSaiPrakashJeelakarra)
-🔗 [LinkedIn Post]([https://www.linkedin.com/posts/shanmukhasaiprakashjeelakarra_healthcare-langchain-langgraph-ugcPost-7456462108193591296-NfDM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2Ch1QB16q0_SQCUBXazxCZtG61IicXuco])
+🔗 [LinkedIn Post](https://www.linkedin.com/posts/shanmukhasaiprakashjeelakarra_healthcare-langchain-langgraph-ugcPost-7456462108193591296-NfDM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2Ch1QB16q0_SQCUBXazxCZtG61IicXuco)
 
 ---
 
