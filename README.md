@@ -5,7 +5,7 @@
 [![OpenAI](https://img.shields.io/badge/GPT--4o--mini-LangChain-orange?logo=openai)](https://openai.com)
 [![Gradio](https://img.shields.io/badge/Gradio-UI-FF7C00?logo=gradio)](https://gradio.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Gradio-brightgreen)](https://e6ffb09b9a7e358077.gradio.live)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Gradio-brightgreen)](https://colab.research.google.com)
 
 > **MedSimplify** transforms complex pharmaceutical drug information into clear, patient-friendly medication instructions using a production-grade agentic AI pipeline with hybrid RAG, multi-layer guardrails, and automated evaluation.
 
